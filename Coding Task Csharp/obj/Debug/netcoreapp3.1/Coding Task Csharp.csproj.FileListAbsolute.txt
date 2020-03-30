@@ -1,0 +1,13 @@
+C:\Users\harrs\source\repos\Coding Task Csharp\Coding Task Csharp\bin\Debug\netcoreapp3.1\Coding Task Csharp.exe
+C:\Users\harrs\source\repos\Coding Task Csharp\Coding Task Csharp\bin\Debug\netcoreapp3.1\Coding Task Csharp.deps.json
+C:\Users\harrs\source\repos\Coding Task Csharp\Coding Task Csharp\bin\Debug\netcoreapp3.1\Coding Task Csharp.runtimeconfig.json
+C:\Users\harrs\source\repos\Coding Task Csharp\Coding Task Csharp\bin\Debug\netcoreapp3.1\Coding Task Csharp.runtimeconfig.dev.json
+C:\Users\harrs\source\repos\Coding Task Csharp\Coding Task Csharp\bin\Debug\netcoreapp3.1\Coding Task Csharp.dll
+C:\Users\harrs\source\repos\Coding Task Csharp\Coding Task Csharp\bin\Debug\netcoreapp3.1\Coding Task Csharp.pdb
+C:\Users\harrs\source\repos\Coding Task Csharp\Coding Task Csharp\obj\Debug\netcoreapp3.1\Coding Task Csharp.csprojAssemblyReference.cache
+C:\Users\harrs\source\repos\Coding Task Csharp\Coding Task Csharp\obj\Debug\netcoreapp3.1\Coding Task Csharp.csproj.CoreCompileInputs.cache
+C:\Users\harrs\source\repos\Coding Task Csharp\Coding Task Csharp\obj\Debug\netcoreapp3.1\Coding Task Csharp.AssemblyInfoInputs.cache
+C:\Users\harrs\source\repos\Coding Task Csharp\Coding Task Csharp\obj\Debug\netcoreapp3.1\Coding Task Csharp.AssemblyInfo.cs
+C:\Users\harrs\source\repos\Coding Task Csharp\Coding Task Csharp\obj\Debug\netcoreapp3.1\Coding Task Csharp.dll
+C:\Users\harrs\source\repos\Coding Task Csharp\Coding Task Csharp\obj\Debug\netcoreapp3.1\Coding Task Csharp.pdb
+C:\Users\harrs\source\repos\Coding Task Csharp\Coding Task Csharp\obj\Debug\netcoreapp3.1\Coding Task Csharp.genruntimeconfig.cache
