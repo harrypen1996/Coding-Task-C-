@@ -21,7 +21,7 @@ Right click 'Coding Task Csharp.exe' and select **Open**
 OR
 
 If building, locate release folder with built exe.
-```
+
 ## Commands
 
 Input string eg "12312321j21g3hh" to test individual IDs.
