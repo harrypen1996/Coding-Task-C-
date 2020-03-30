@@ -6,7 +6,7 @@ Simple application to determine validity of patient IDs for certain conditions.
 
 To Build application install Visual Studio 2019 and locate "Coding Task Csharp.sln" in extracted dir.
 
-Build using Visual Studio, exe found in release.
+Open "Coding Task Csharp.sln" Build using Visual Studio... Then exe found in release folder.
 
 
 ## Usage
