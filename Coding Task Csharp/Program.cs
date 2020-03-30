@@ -86,14 +86,12 @@ namespace CodingTask
         {
             
             int[] weights = { 11, 10, 9, 8, 7, 6, 5, 4, 3 };
-            int[] weightedId = new int[9];
+            int weightSum = 0;
             for (int i = 0; i < weights.Length; i++)
             {
-                weightedId[i] = weights[i] * int.Parse(id[i].ToString());
-            }
+                weightSum += weights[i] * int.Parse(id[i].ToString()); 
+            }                                                             
  
-
-            int weightSum = weightedId.Sum();
             int remainder = weightSum % 12;
             int finalDigit = 12 - remainder;
 
